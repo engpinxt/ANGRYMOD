@@ -1,63 +1,39 @@
-# AngryMod
-
-<p align="center">
-  <b>AngryMod Project</b><br>
-  Developed & Maintained by <b>@engpinxt</b>
-</p>
-
----
+# AngryMod Library Component
 
 ## Overview
 
-AngryMod is an independent development project focused on building optimized solutions, exploring system-level technologies, and improving software performance through continuous research and development.
+This repository contains a component/module of the AngryMod project.
 
-This repository contains resources and information related to the project. Future updates, releases, and important announcements will be shared through the official channels.
+This part is designed as an executable library component, providing specific functionality required by the main system. The source code is structured to be integrated with other project components when required.
 
----
+## Information
 
-## About The Developer
+This library is only a part of the complete system and does not represent the full project source.
 
-**@engpinxt** is the creator and maintainer of AngryMod.
+Additional details, documentation, and integration information may be provided when necessary.
 
-Focused areas include:
+## Developer
 
-- Software development
-- System programming
-- Application development
-- Performance optimization
-- Research and experimentation with modern technologies
+Maintained by:
 
-The main objective is to create reliable, efficient, and well-structured projects while continuously learning and improving.
+**@engpinxt**
 
----
+Responsible for development, maintenance, and future improvements of this component.
 
-## Official Community
+## Official Channel
 
-For official updates, announcements, and project-related information, follow the official Telegram channel:
+For official updates, announcements, and related information:
 
-**Telegram Channel:**  
+Telegram:
 https://t.me/angrymodofficial
 
----
+## Support
 
-## Support & Contact
+For any technical questions, collaboration, or required information regarding this component, please contact:
 
-For project-related questions, support requests, or collaboration inquiries, please contact directly:
-
-**Telegram:** @engpinxt
-
-Please provide proper details when contacting for faster assistance.
+Telegram: @engpinxt
 
 ---
 
-## Notice
-
-AngryMod is developed and maintained independently.  
-All project information, updates, and announcements are published through official sources only.
-
----
-
-**AngryMod**  
-© 2024 - All Rights Reserved
-
-Maintained by @engpinxt
+© AngryMod  
+All Rights Reserved.
